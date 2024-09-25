@@ -48,7 +48,7 @@ exemple/
     ...
 ```
 
-![Exemple avant/après](path_to_image_in_repo)
+![Exemple avant/après](convert_pdf_to_image_public/Convert_pdf_to_image.png)
 
 ---
 
